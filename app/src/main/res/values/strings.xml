@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">IMC et Poid Ideal</string>
+    <string name="Poids">Poids</string>
+    <string name="Taille">Taille</string>
+    <string name="Age">Age</string>
+    <string name="Kg">Kg</string>
+    <string name="m">m</string>
+    <string name="ans">ans</string>
+    <string name="btn_ajt">Ajouter</string>
+    <string name="btn_eff">Effacer</string>
+    <string name="btn_vide">Vider</string>
+    <string name="list">List</string>
+</resources>
